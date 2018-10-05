@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.0_8f3c3cee1ef08d23d85b18cd08d267cf7c112aef.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_bcce2a45b7e8b3d393446d13a5a0cb3c513cd435.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.0_9d9e5de833342d7e821b445340b0f0f3adc31cf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_c7e0beaac66f34a5805d16563718747860b37550.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.0_76b0e5ef866907161f5a86c52a38591f245212c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_2978d942e43ce37306d79977b565867a6c4b6c1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.0_8f0e35e22759391d370aaaab792a80d810d6937a.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.0_14104e23ca0a1947f06dd0e2e5702cac47b3496d.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.0_e238754566ca2ed6a592ee7377d29bdf44fb7c61.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.0_3571752289ed4ec5b4e42eef0409277608c1ff3e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_a247d3cd83a63a090e5c998b5ef1ffb2f1676ecd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.0_b56829c02001f2b4906aab931b984ae73553dcc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.0_c48ed27d6960903e2f0aa502b3ebcb8d7c955c43.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.0_683faee92fe97f4be5d580adde63e1c46ee7523b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.0_f65a9b5f812bbad525fd7f39e121f4be7771c2fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.0_45b8c5669dcd92dc8ea9b5e17938bc769dbb031c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.0_d6e9bb48264e84164ca6d8c4b8692460ddad1ea7.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.0_1d45eec118464e2fc51416c5aff9d178f2e1f6e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.0_be34cb1a1fd6f0b97c959eca7ba9ebef89c54575.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.0_b001acc76ff5e95da9a6e5cb455ad02f0d6bf334.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.0_2fcae40e014434f6d23967314672fed57b7aaac0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.0_bebdf5f140395dcffbea89dc43570c41f084f7a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.0_d391d961d6b360f53adeb8d099710fbcc1159c6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.0_13bc2274b9789ff9f0d1f982cc39f24b750cf81f.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.0_82813118097f77a55829c915f41f6d249d167343.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_a72943d701c0a005edc6643c8f1ec05b616a15d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_038738876178ef606b11f6167cab87489de2e3fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.0_ab2f0a2c8fbaa4dd8d99aa8c775babf46b3d5727.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.0_6b7c6158fdf5e7570b706e0eed2e68e6b0064ba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.0_ed64d4335cbcbec432e5c684d2460a0d6a4974cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_435e76c359929ff71ea2e24e346e70ba5e2b2af8.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.0_d4d7be2f841fbc7f89ee78e9acd44aa023f81318.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.0_590d04f0c8990336a6d3f27f197c43cd6370b7a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.0_538a7ad2ed983e083892414a04ccb77601973c0b.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.0_abb7ec1e18a0502f29c4f5e669c300e13b005596.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.0_10c1429ace3d22a9cccf15923f41e2b997783d72.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.0_1a1bd5ca1086635e728766cba04a141290797607.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.0_5d64956063c621ba8431a28240dce6abb62119f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.0_a5d43b879102cced3f3faafe1dab0ef96e975760.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.0_0c16abf196a9972a0adf01d8c2e5e8f843e0e883.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.0_3aac81345fa8db8e1cbb79b8d03318ea13c2d294.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.0_a48847edd5c54039f5a061607a4b10b0c4fbef07.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.0_1c6efab61fdc3d7422c004c69f8fe8bda1fe5fcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_bb6559c779faac171cfebb00bbc138e32212af7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.0_ed0b8d5732ed5e82b1667843892e74d2aed92933.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.0_740ca825acd520c0c49637c192c8d3585e18ab57.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.0_fe09a0b67939a8f5f8651961067673eb6e6f0d8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.0_168b3141d5c21a10f197a61c7bd2771843d4616c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.0_ff39c383ecb0b2f8af77f3698009ea7f239dbc59.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.0_2164b47582cdfc2fe65830913064aa30b2f629ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\Users\dell\AndroidStudioProjects\PlacesNearby\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.0_8dacc782eb5413e6add7c65a98505fe055c7f95e.jar" />
+    </item>
+
+</items>

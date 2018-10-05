@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navi_drawer.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\src\\main\\res\\menu\\activity_navi_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navi.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\src\\main\\res\\menu\\navi.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "C:\\Users\\dell\\AndroidStudioProjects\\PlacesNearby\\app\\src\\main\\res\\menu\\main2.xml"
+    }
+]
